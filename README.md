@@ -14,7 +14,7 @@ A página funciona como um **link bio moderno**, com visual limpo, vídeo de fun
 
 ## 🌐 Acesse o projeto online:
 
-🔗 [linkbiomemphisdepay.netlify.app](https://linkbiomemphisdepay.netlify.app)
+🔗 [linkbiomemphisdepay.netlify.app](https://linkbio-memphisdepay.netlify.app)
 
 ---
 
