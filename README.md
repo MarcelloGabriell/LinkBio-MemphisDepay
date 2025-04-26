@@ -46,7 +46,7 @@ O design busca refletir a personalidade forte e versátil de Depay, tanto como a
 
 Feito com 💻 e ⚽ por **Marcello Gabriell**  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🔗 [Meu GitHub](https://github.com/MarcelloGabriell)
+🔗 [Meu Linkedin](https://www.linkedin.com/in/marcello-gabriell/)
 
 ---
 
